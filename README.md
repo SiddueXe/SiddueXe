@@ -169,6 +169,17 @@ Exploring the relationship between software and hardware through:
                     UART • SPI • I²C
 ```
 
+## 📊 GitHub Analysis
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDARTH_GITHUB_USERNAME&theme=github-compact&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SIDDARTH_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDARTH_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
 ---
 
 ## 📫 Connect With Me
@@ -190,6 +201,14 @@ Exploring the relationship between software and hardware through:
 <a href="https://SIDDARTH_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+<p align="center">
+<b>Building things where software meets hardware.</b>
+</p>
 
 </p>
 
