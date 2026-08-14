@@ -168,16 +168,15 @@ Exploring the relationship between software and hardware through:
                             │
                     UART • SPI • I²C
 ```
-
 ## 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDARTH_GITHUB_USERNAME&theme=github-compact&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddueXe&theme=github-compact&hide_border=true" width="95%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SiddueXe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDARTH_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddueXe&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -186,7 +185,7 @@ Exploring the relationship between software and hardware through:
 
 <p align="center">
 
-<a href="https://github.com/SIDDARTH_GITHUB_USERNAME">
+<a href="https://github.com/SiddueXe">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -198,17 +197,9 @@ Exploring the relationship between software and hardware through:
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://SIDDARTH_PORTFOLIO_URL">
+<a href="SIDDARTH_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-<b>Building things where software meets hardware.</b>
-</p>
 
 </p>
 
