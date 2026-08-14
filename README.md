@@ -176,7 +176,7 @@ Exploring the relationship between software and hardware through:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIDDARTH_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddueXe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDARTH_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
