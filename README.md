@@ -4,11 +4,7 @@
 
 I'm interested in **embedded systems, low-level programming, firmware, and computer architecture**.
 
-I enjoy understanding how software interacts with hardware, experimenting with microcontrollers, and building projects that work close to the metal.
-
-```text
-C → C++ → Assembly → Microcontrollers → Drivers → RTOS → Embedded Systems
-```
+I enjoy working close to the hardware, understanding how software interacts with circuits, and building practical embedded systems.
 
 ---
 
@@ -16,6 +12,7 @@ C → C++ → Assembly → Microcontrollers → Drivers → RTOS → Embedded Sy
 
 <table>
 <tr>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/><br>
 <b>C</b>
@@ -27,8 +24,8 @@ C → C++ → Assembly → Microcontrollers → Drivers → RTOS → Embedded Sy
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="55"/><br>
-<b>Assembly</b>
+<img src="https://img.icons8.com/color/96/assembly.png" width="55"/><br>
+<b>x86 Assembly</b>
 </td>
 
 <td align="center" width="120">
@@ -40,9 +37,11 @@ C → C++ → Assembly → Microcontrollers → Drivers → RTOS → Embedded Sy
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/><br>
 <b>VS Code</b>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br>
 <b>Git</b>
@@ -54,159 +53,125 @@ C → C++ → Assembly → Microcontrollers → Drivers → RTOS → Embedded Sy
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/?size=100&id=42355&format=png" width="55"/><br>
+<img src="https://img.icons8.com/color/96/serial-port.png" width="55"/><br>
 <b>UART</b>
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/?size=100&id=61856&format=png" width="55"/><br>
+<img src="https://img.icons8.com/color/96/electronics.png" width="55"/><br>
 <b>SPI</b>
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/?size=100&id=61668&format=png" width="55"/><br>
+<img src="https://img.icons8.com/color/96/i2c.png" width="55"/><br>
 <b>I²C</b>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
-<img src="https://img.icons8.com/?size=100&id=24700&format=png" width="55"/><br>
-<b>RTOS</b>
+<img src="https://www.freertos.org/media/2023/03/FreeRTOS-logo.png" width="70"/><br>
+<b>FreeRTOS</b>
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/?size=100&id=20432&format=png" width="55"/><br>
-<b>Embedded</b>
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/?size=100&id=20906&format=png" width="55"/><br>
-<b>Hardware</b>
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/?size=100&id=10253&format=png" width="55"/><br>
+<img src="https://img.icons8.com/color/96/soldering-iron.png" width="55"/><br>
 <b>Soldering</b>
 </td>
 
 <td align="center">
 🧠<br>
-<b>Computer Architecture</b>
+<b>Embedded Systems</b>
 </td>
+
+<td align="center">
+⚡<br>
+<b>Firmware</b>
+</td>
+
+<td align="center">
+🔧<br>
+<b>Hardware</b>
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 🔧 What I'm working on
+## 🔧 What I Work With
 
-* 🔌 Embedded systems and firmware development
-* ⚡ Microcontroller-based projects
-* 🧠 Low-level C/C++ programming
-* 💻 x86 Assembly and computer architecture
-* 📡 Communication protocols like **UART, SPI and I²C**
-* ⏱️ Real-time systems and **RTOS**
-* 🛠️ Hardware prototyping and soldering
-* 🚀 Building practical embedded projects
-
----
-
-## 🧩 Embedded Systems
-
-```text
-                    ┌─────────────────────┐
-                    │      Siddarth       │
-                    │  Embedded Systems   │
-                    └──────────┬──────────┘
-                               │
-          ┌────────────────────┼────────────────────┐
-          │                    │                    │
-          ▼                    ▼                    ▼
-      Software              Hardware          Communication
-          │                    │                    │
-      C / C++              Arduino              UART
-      Assembly             Sensors                SPI
-      RTOS                 Modules                I²C
-      Firmware             Circuits               GPIO
-```
+* 💻 **C & C++** for embedded programming
+* 🧠 **x86 Assembly** and low-level programming
+* ⚡ **FreeRTOS** for real-time systems
+* 🔌 **Arduino** and microcontroller-based development
+* 📡 **UART, SPI & I²C** communication protocols
+* 🔧 Hardware prototyping and **soldering**
+* 🛠️ Firmware development and debugging
+* 🐙 Git & GitHub for version control
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Embedded Projects
+### 🔌 Embedded Systems Projects
 
-Projects focused on microcontrollers, sensors, firmware, communication protocols and hardware integration.
+Building projects involving **microcontrollers, sensors, communication protocols, firmware and hardware integration**.
 
-### 🔹 Low-Level Programming
+### ⚡ Real-Time Systems
 
-Experiments with:
+Working with **FreeRTOS**, exploring:
+
+* Tasks
+* Scheduling
+* Queues
+* Semaphores
+* Interrupts
+* Inter-task communication
+
+### 🧠 Low-Level Programming
+
+Exploring the relationship between software and hardware through:
 
 * C / C++
 * x86 Assembly
-* Memory and registers
+* Registers
+* Memory
 * CPU architecture
-* Hardware-level programming
-
-### 🔹 Real-Time Systems
-
-Exploring **RTOS concepts**, task scheduling, interrupts, synchronization and resource management.
+* Low-level system behavior
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ Embedded Toolkit
 
 ```text
-Languages
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-C              ████████████████████
-C++            ██████████████████
-x86 Assembly   ███████████████
-
-Embedded
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Arduino        █████████████████
-RTOS           ███████████████
-UART           ██████████████████
-SPI            █████████████████
-I²C            █████████████████
-
-Development
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-VS Code        ███████████████████
-Git            ███████████████████
-GitHub         ███████████████████
+                 ┌─────────────────────┐
+                 │      SIDDARTH       │
+                 │   EMBEDDED SYSTEMS  │
+                 └──────────┬──────────┘
+                            │
+       ┌────────────────────┼────────────────────┐
+       │                    │                    │
+       ▼                    ▼                    ▼
+   PROGRAMMING           REAL-TIME          HARDWARE
+       │                    │                    │
+    C / C++              FreeRTOS           Arduino
+    x86 ASM              Tasks              Sensors
+    Firmware             Scheduling         Soldering
+       │                    │                    │
+       └────────────────────┼────────────────────┘
+                            │
+                            ▼
+                    COMMUNICATION
+                            │
+                    UART • SPI • I²C
 ```
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SIDDARTH_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDARTH_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SIDDARTH_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/SIDDARTH_GITHUB_USERNAME/SIDDARTH_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 📫 Connect
+## 📫 Connect With Me
 
 <p align="center">
 
@@ -214,8 +179,16 @@ GitHub         ███████████████████
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://linkedin.com/in/SIDDARTH_LINKEDIN_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/SIDDARTH_X_USERNAME">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://SIDDARTH_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
@@ -223,5 +196,5 @@ GitHub         ███████████████████
 ---
 
 <p align="center">
-<b>“Build close to the hardware. Understand what happens underneath.”</b>
+<b>Building things where software meets hardware.</b>
 </p>
